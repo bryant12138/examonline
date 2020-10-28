@@ -1,0 +1,2 @@
+# examonline
+由Java语言开发，使用ssm框架，集成了RabbitMQ消息中间件的学生在线考试系统和管理系统
